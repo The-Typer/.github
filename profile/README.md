@@ -1,4 +1,4 @@
-# TheTyper project description
+# TheTyper
 
 ### Project description
 
